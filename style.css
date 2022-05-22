@@ -1,0 +1,18 @@
+.overflow {
+
+  width: 200px; 
+  height:200px;
+  overflow: scroll;
+  text-overflow: clip; 
+  border: 1px solid #000000;
+  float: left;
+}
+.overflow2{
+    white-space: nowrap;
+    width: 100px;
+    overflow: scroll;
+    border: 1px solid #000000;
+    margin: auto;
+}
+  
+  
